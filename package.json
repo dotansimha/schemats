@@ -23,6 +23,10 @@
   "bin": {
     "schemats": "bin/schemats.ts"
   },
+  "files": {
+    "bin",
+    "src"
+  },
   "repository": {
     "type": "git",
     "url": "https://github.com/sweetiq/schemats.git"
