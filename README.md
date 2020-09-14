@@ -1,6 +1,3 @@
-# Publishing
-
-Run `npm install` followed by `npm pack`. Next, tag and upload the packed tarball.
 
 --------------------------------- 
 
@@ -48,7 +45,7 @@ For an overview on the motivation and rational behind this project, please take 
 ### Installing Schemats
 
 ```
-npm install -g schemats
+npm install -g @dotansimha/schemats
 ```
 
 ### Generating the type definition from schema
